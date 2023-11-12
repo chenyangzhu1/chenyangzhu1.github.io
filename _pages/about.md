@@ -42,12 +42,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Deep Factorized Multi-view Hashing for Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-18123-8_49)
 
-**Chenyang Zhu**$^{\dagger}$ , Wenjue He $^{\dagger}$ , Zheng Zhang , **ICMTEL 2022**
+**Chenyang Zhu**$^{\dagger}$ , Wenjue He$^{\dagger}$ , Zheng Zhang$^{*}$ , **ICMTEL 2022**
 
 [**Code**](https://github.com/chenyangzhu1/DFMH) 
+
 - Combining deep semi non-negative matrix factorization and adaptive weight strategy, a novel algorithm called DFMH was proposed to solve the problem of multi-view image retrieval.
 </div>
 </div>
