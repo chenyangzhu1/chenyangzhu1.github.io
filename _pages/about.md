@@ -42,6 +42,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Factorized Multi-view Hashing for Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-18123-8_49)
+
+**Chenyang Zhu**$^{\dagger}$ , Wenjue He $^{\dagger}$ , Zheng Zhang , **ICMTEL 2022**
+
+[**Code**](https://github.com/chenyangzhu1/DFMH) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
