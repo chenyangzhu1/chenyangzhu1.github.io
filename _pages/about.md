@@ -78,4 +78,4 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=333&t=tt&d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=368bdc&w=350&t=tt&d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
