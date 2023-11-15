@@ -77,4 +77,4 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 - *2023.04 - Present*, Professor Li Xiu’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&cl=ffffff&w=a"></script>
