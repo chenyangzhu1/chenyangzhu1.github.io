@@ -28,11 +28,13 @@ My research interests lie in machine learning and computer vision, particularly 
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
+- *2023.12*: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
 - *2023.08*: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
 - *2023.07*: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
 - *2023.04*: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,7 +48,7 @@ My research interests lie in machine learning and computer vision, particularly 
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Deep Factorized Multi-view Hashing for Image Retrieval
 
@@ -57,7 +59,7 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 
 - Combining deep semi non-negative matrix factorization and adaptive weight strategy, a novel algorithm called DFMH was proposed to solve the problem of multi-view image retrieval.
 </div>
-</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
