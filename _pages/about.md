@@ -36,7 +36,6 @@ My research interests lie in machine learning and computer vision, particularly 
 - _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
 
 # 📝 Publications
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 MultiBooth: Towards Generating All Your Concepts in an Image from Text
