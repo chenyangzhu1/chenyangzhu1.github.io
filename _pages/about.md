@@ -36,15 +36,18 @@ My research interests lie in machine learning and computer vision, particularly 
 - _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Framework.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 MultiBooth: Towards Generating All Your Concepts in an Image from Text
 
 **Chenyang Zhu** , Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
+[[**Project Page**](https://multibooth.github.io/)]
 [[**Paper**](https://arxiv.org/abs/2404.14239)]
 [[**Code**](https://github.com/chenyangzhu1/MultiBooth)]
 
+A novel and efficient technique for multi-concept customization in image generation from text.
 </div>
 </div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
