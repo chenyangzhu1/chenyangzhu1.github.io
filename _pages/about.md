@@ -41,11 +41,12 @@ My research interests lie in machine learning and computer vision, particularly 
 <div class='paper-box-text' markdown="1">
 MultiBooth: Towards Generating All Your Concepts in an Image from Text
 
-**Chenyang Zhu** , Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
+**Chenyang Zhu**, Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
+
 <a href='https://arxiv.org/abs/2404.14239'><img src='https://img.shields.io/badge/ArXiv-2404.14239-red'></a>
 <a href='https://multibooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth)
