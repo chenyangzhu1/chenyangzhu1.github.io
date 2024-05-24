@@ -41,8 +41,8 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 </li>
 
 <li>
-2023.08: &nbsp;🎉🎉 Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a> 
-</li>.
+2023.08: &nbsp;🎉🎉 Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>. 
+</li>
 
 <li>
 2023.07: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
