@@ -39,9 +39,10 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 2023.12: &nbsp;🎉🎉 Started to cooperate with 
 <a href="https://mayuelala.github.io/">Yue Ma</a>.
 </li>
+
 <li>
 2023.08: &nbsp;🎉🎉 Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a> 
-</li>
+</li>.
 
 <li>
 2023.07: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
@@ -81,7 +82,7 @@ MultiBooth: Towards Generating All Your Concepts in an Image from Text
 A novel and efficient technique for multi-concept customization in image generation from text.
 
 </div>
-</div>
+<!-- </div> -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
