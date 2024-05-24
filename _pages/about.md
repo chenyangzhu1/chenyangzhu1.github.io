@@ -68,7 +68,7 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=3 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
+<font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
 
 **Chenyang Zhu**, Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
