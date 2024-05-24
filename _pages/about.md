@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -21,39 +21,89 @@ redirect_from:
 
 I am a master student at Tsinghua University, under the supervision of [Prof. Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.html). I obtained my B.Eng in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) in 2024.
 
-My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization([MultiBooth](https://multibooth.github.io/)).
+My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization ([MultiBooth](https://multibooth.github.io/)).
 
-<!-- 　<font color='red'> text </font> -->
+_<span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry. Please feel free to contact me via email.</span>_
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>News</title>
+<style>
+  .news-container {
+    height: 150px;
+    overflow: auto;
+  }
+  .news-item {
+    display: flex;
+  }
+  .news-date {
+    min-width: 100px; /* 根据你的情况调整宽度 */
+  }
+  .news-content {
+    flex-grow: 1;
+  }
+</style>
+</head>
+<body>
+
 <h1>🔥 News</h1>
+<div class="news-container">
+  <ul>
+    <li class="news-item">
+      <div class="news-date">Mar 2024</div>
+      <div class="news-content">Submitted one paper to ECCV2024.</div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Dec 2023</div>
+      <div class="news-content">
+        Started to cooperate with <a href="https://mayuelala.github.io/">Yue Ma</a>.
+      </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Aug 2023</div>
+      <div class="news-content">
+        Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>.
+      </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Jul 2023</div>
+      <div class="news-content">
+        Awarded as an outstanding camper in Tsinghua University Summer Camp.
+      </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Apr 2023</div><!-- Apr 202 这里似乎有个拼写错误，应该是 Apr 2023？ -->
+      <div class="news-content">
+        Started internship in Professor Li Xiu’s research group.
+      </div>
+    </li>
+  </ul>
+</div>
+
+</body>
+</html>
+
+<!-- <h1>🔥 News</h1>
 <div style="height: 150px; overflow: auto;">
 <ul>
 
-<li>
-2024.03: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
-</li>
+Mar 2024 &nbsp;&nbsp;&nbsp;&nbsp;Submitted one paper to ECCV2024.
 
-<li>
-2023.12: &nbsp;🎉🎉 Started to cooperate with 
+Dec 2023 &nbsp;&nbsp;&nbsp;&nbsp;Started to cooperate with
 <a href="https://mayuelala.github.io/">Yue Ma</a>.
-</li>
 
-<li>
-2023.08: &nbsp;🎉🎉 Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>. 
-</li>
+Aug 2023 &nbsp;&nbsp;&nbsp;&nbsp;Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>.
 
-<li>
-2023.07: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
-</li>
+Jul 2023 &nbsp;&nbsp;&nbsp;&nbsp;Awarded as an outstanding camper in Tsinghua University Summer Camp.
 
-<li>
-2023.04: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
-</li>
+Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s research group.
 
 </ul>
-</div>
+</div> -->
 
 <!-- # 🔥 News
 
@@ -65,7 +115,7 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
