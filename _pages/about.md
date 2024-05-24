@@ -28,7 +28,7 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <h1>🔥 News</h1>
-<div style="height: 200px; overflow: auto;">
+<div style="height: 150px; overflow: auto;">
 <ul>
 
 <li>
@@ -67,7 +67,8 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-MultiBooth: Towards Generating All Your Concepts in an Image from Text
+
+<font size=3 >**MultiBooth: Towards Generating All Your Concepts in an Image from Text**</font>
 
 **Chenyang Zhu**, Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
@@ -115,11 +116,11 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+<!-- # 📖 Educations
 
 - _2024.09 - Future_, Tsinghua University, Master of Engineering in Electronic Information
 
-- _2020.09 - 2024.6_, Harbin Institute of Technology (Shenzhen), Bachelor of Computer Science and Technology
+- _2020.09 - 2024.6_, Harbin Institute of Technology (Shenzhen), Bachelor of Computer Science and Technology -->
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
@@ -128,7 +129,7 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 
 # 💻 Internships
 
-- _2023.04 - Present_, Professor Li Xiu’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
+- _2023.04 - 2024.8_, Professor Li Xiu’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
 
 ---
 
