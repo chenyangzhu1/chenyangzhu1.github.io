@@ -29,16 +29,23 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 <h1>🔥 News</h1>
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li>
+2024.03: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
+</li>
+2023.12: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
 
-- _2024.03_: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
+<li>
+2023.08: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
+</li>
 
-- _2023.12_: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
+<li>
+2023.07: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
+</li>
 
-- _2023.08_: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
+<li>
+2023.04: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
+</li>
 
-- _2023.07_: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
-
-- _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
 </ul>
 </div>
 
