@@ -26,16 +26,21 @@ My research interests lie in **_Computer Vision_**, particularly in visual conte
 <!-- 　<font color='red'> text </font> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
 <h1>🔥 News</h1>
 <div style="height: 200px; overflow: auto;">
 <ul>
+
 <li>
 2024.03: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
 </li>
-2023.12: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
 
 <li>
-2023.08: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
+2023.12: &nbsp;🎉🎉 Started to cooperate with 
+<a href="https://mayuelala.github.io/">Yue Ma</a>.
+</li>
+<li>
+2023.08: &nbsp;🎉🎉 Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a> 
 </li>
 
 <li>
