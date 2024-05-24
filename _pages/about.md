@@ -19,21 +19,36 @@ redirect_from:
 
 # 🌴 About Me
 
-I am a senior student at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen). I will go to Shenzhen Graduate School of Tsinghua University to start studying for a master’s degree in September this year.
+I am a master student at Tsinghua University, under the supervision of [Prof. Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.html). I obtained my B.Eng in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) in 2024.
 
-My research interests lie in machine learning and computer vision, particularly in visual content generation such as text-to image/video generation.
+My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization([MultiBooth](https://multibooth.github.io/)).
 
 <!-- 　<font color='red'> text </font> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<h1>🔥 News</h1>
+<div style="height: 200px; overflow: auto;">
+<ul>
 
-# 🔥 News
+- _2024.03_: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
+
+- _2023.12_: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
+
+- _2023.08_: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
+
+- _2023.07_: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
+
+- _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
+</ul>
+</div>
+
+<!-- # 🔥 News
 
 - _2024.03_: &nbsp;🎉🎉 Submitted one paper to ECCV2024.
 - _2023.12_: &nbsp;🎉🎉 Started to cooperate with [Yue Ma](https://mayuelala.github.io/).
 - _2023.08_: &nbsp;🎉🎉 Started to cooperate with Dr. [Kai li](http://kailigo.github.io/).
 - _2023.07_: &nbsp;🎉🎉 Awarded as an outstanding camper in Tsinghua University Summer Camp.
-- _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group.
+- _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group. -->
 
 # 📝 Publications
 
@@ -88,9 +103,10 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - Future*, Tsinghua University, Master of Engineering in Electronic Information
 
-- *2020.09 - 2024.6*, Harbin Institute of Technology (Shenzhen), Bachelor of Computer Science and Technology
+- _2024.09 - Future_, Tsinghua University, Master of Engineering in Electronic Information
+
+- _2020.09 - 2024.6_, Harbin Institute of Technology (Shenzhen), Bachelor of Computer Science and Technology
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
