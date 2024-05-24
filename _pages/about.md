@@ -115,7 +115,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
