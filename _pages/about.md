@@ -88,8 +88,9 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
+- *2024.09 - Future*, Tsinghua University, Master of Engineering in Electronic Information
 
-- _2020.09 - Present_, Harbin Institute of Technology (Shenzhen), $\textit{B.S.}$ in Computer Science and Technology
+- *2020.09 - 2024.6*, Harbin Institute of Technology (Shenzhen), Bachelor of Computer Science and Technology
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
