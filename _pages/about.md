@@ -120,7 +120,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
 
-**Chenyang Zhu**, Li Kai $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
+**Chenyang Zhu**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
