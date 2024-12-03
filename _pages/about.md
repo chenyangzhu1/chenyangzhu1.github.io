@@ -124,7 +124,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 <font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
 
-**Chenyang Zhu $^*$**, Kai Li $^{*,\dagger}$, Yue Ma $^{*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
+**Chenyang Zhu $^{\*}$**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
 
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
@@ -135,7 +135,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap)
 
 
-A novel and efficient technique for multi-concept customization in image generation from text.
+A novel training-free customized concept swapping framework, which enables efficient concept swapping across sharp shape differences.
 
 </div>
 </div>
