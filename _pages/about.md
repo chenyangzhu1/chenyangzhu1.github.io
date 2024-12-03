@@ -21,7 +21,7 @@ redirect_from:
 
 I am a master student at Tsinghua University, under the supervision of [Prof. Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.html). I obtained my B.Eng in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) in 2024.
 
-My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization ([MultiBooth](https://multibooth.github.io/)).
+My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization ([MultiBooth](https://multibooth.github.io/)), Customized Editing ([InstantSwap](https://instantswap.github.io/)).
 
 _<span style="color:PaleVioletRed;">I am actively seeking for research internship opportunities in either academia or industry. Please feel free to contact me via email.</span>_
 
@@ -54,8 +54,12 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <div class="news-container">
   <ul>
     <li class="news-item">
-      <div class="news-date">Mar 2024</div>
-      <div class="news-content">Submitted one paper to ECCV2024.</div>
+      <div class="news-date">Dec 2024</div>
+      <div class="news-content">Excited to release <a href="https://instantswap.github.io/">InstantSwap</a>, an efficient customized concept swapping method across sharp shape differences. </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Apr 2024</div>
+      <div class="news-content">Excited to release <a href="https://multibooth.github.io/">MultiBooth</a>, a novel and efficient multi-concept customization method. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2023</div>
@@ -114,6 +118,27 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 - _2023.04_: &nbsp;🎉🎉 Started internship in Professor Li Xiu’s research group. -->
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\InstantSwap-Title-case.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
+
+**Chenyang Zhu $^{*}$**, Kai Li $^{*,\dagger}$, Yue Ma $^{*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
+
+<!-- [[**Project Page**](https://multibooth.github.io/)] -->
+<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
+<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
+
+<a href='https://arxiv.org/abs/2412.01197'><img src='https://img.shields.io/badge/ArXiv-2412.01197-red'></a>
+<a href='https://InstantSwap.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap)
+
+
+A novel and efficient technique for multi-concept customization in image generation from text.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
