@@ -119,7 +119,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\InstantSwap-Title-case.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\InstantSwap-title-case.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
