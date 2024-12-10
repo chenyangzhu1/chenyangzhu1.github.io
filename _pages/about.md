@@ -55,6 +55,10 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
   <ul>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
+      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI25. </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Dec 2024</div>
       <div class="news-content">Excited to release <a href="https://instantswap.github.io/">InstantSwap</a>, an efficient customized concept swapping method across sharp shape differences. </div>
     </li>
     <li class="news-item">
@@ -140,7 +144,7 @@ A novel training-free customized concept swapping framework, which enables effic
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI25</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
