@@ -128,8 +128,9 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 <font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
 
-**Chenyang Zhu $^{\*}$**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
+**<u>Chenyang Zhu $^{\*}$ </u>**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
 
+*arXiv preprint arXiv:2412.01197 (2024)*
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
@@ -144,13 +145,14 @@ A novel training-free customized concept swapping framework, which enables effic
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI25</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
 
-**Chenyang Zhu**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
+**<u>Chenyang Zhu</u>**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
 
+*In The AAAI Conference on Artificial Intelligence (AAAI), 2025*
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
