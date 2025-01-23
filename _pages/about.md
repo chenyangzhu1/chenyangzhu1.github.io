@@ -53,9 +53,13 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <h1>🔥 News</h1>
 <div class="news-container">
   <ul>
+  <li class="news-item">
+      <div class="news-date">Jan 2025</div>
+      <div class="news-content"><a href="https://instantswap.github.io/">InstantSwap</a> is accepted by ICLR2025. </div>
+    </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
-      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI25. </div>
+      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI2025. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
@@ -123,14 +127,15 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='..\images\InstantSwap-title-case.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\InstantSwap-title-case.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
 
 **<u>Chenyang Zhu</u> $^{\*}$**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
 
-*arXiv preprint arXiv:2412.01197 (2024)*
+*In International Conference on Learning Representations (ICLR), 2025*
+<!-- *arXiv preprint arXiv:2412.01197 (2024)* -->
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
@@ -145,7 +150,7 @@ A novel training-free customized concept swapping framework, which enables effic
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
