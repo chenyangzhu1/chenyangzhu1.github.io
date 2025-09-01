@@ -54,6 +54,10 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <div class="news-container">
   <ul>
   <li class="news-item">
+      <div class="news-date">Sep 2025</div>
+      <div class="news-content"> Join LONG Group@HKUST as a visiting student. </div>
+    </li>
+  <li class="news-item">
       <div class="news-date">Jan 2025</div>
       <div class="news-content"><a href="https://instantswap.github.io/">InstantSwap</a> is accepted by ICLR2025. </div>
     </li>
@@ -142,7 +146,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 <a href='https://arxiv.org/abs/2412.01197'><img src='https://img.shields.io/badge/ArXiv-2412.01197-red'></a>
 <a href='https://InstantSwap.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap)
+![InstantSwap](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap)
 
 
 A novel training-free customized concept swapping framework, which enables efficient concept swapping across sharp shape differences.
@@ -164,7 +168,7 @@ A novel training-free customized concept swapping framework, which enables effic
 
 <a href='https://arxiv.org/abs/2404.14239'><img src='https://img.shields.io/badge/ArXiv-2404.14239-red'></a>
 <a href='https://multibooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth)
+![MultiBooth](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth)
 
 A novel and efficient technique for multi-concept customization in image generation from text.
 
