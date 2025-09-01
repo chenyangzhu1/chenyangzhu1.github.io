@@ -19,7 +19,7 @@ redirect_from:
 
 # 🌴 About Me
 
-I am a master's student at Tsinghua University, under the supervision of [Prof. Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.html). I obtained my B.Eng in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) in 2024.
+I am a master's student at Tsinghua University, under the supervision of [Prof. Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.html). I'm now a visiting student at the LONG group, HKUST, working with Prof. Long Chen. I obtained my B.Eng in Computer Science and Technology at Harbin Institute of Technology (Shenzhen) in 2024.
 
 My research interests lie in **_Computer Vision_**, particularly in visual content generation such as Concept Customization ([MultiBooth](https://multibooth.github.io/)), Customized Editing ([InstantSwap](https://instantswap.github.io/)).
 
