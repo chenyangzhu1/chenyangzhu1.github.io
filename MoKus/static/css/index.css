@@ -125,6 +125,14 @@ body {
   margin: 0;
 }
 
+#qualitative-comparison-carousel .qualitative-comparison-image {
+  display: block;
+  width: 60% !important;
+  max-width: 60% !important;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
 .slider-pagination .slider-page {
   background: #000000;
 }
@@ -132,6 +140,3 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
-
-
-

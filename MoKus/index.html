@@ -1,376 +1,372 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="description"
-      content="MoKus project page placeholder. Links, figures, and paper metadata will be updated soon."
-    />
-    <meta property="og:title" content="MoKus" />
-    <meta
-      property="og:description"
-      content="Placeholder project page for MoKus."
-    />
-    <meta property="og:url" content="./" />
-    <meta
-      property="og:image"
-      content="static/images/teaser-placeholder.jpg"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta name="twitter:title" content="MoKus" />
-    <meta
-      name="twitter:description"
-      content="Placeholder project page for MoKus."
-    />
-    <meta
-      name="twitter:image"
-      content="static/images/teaser-placeholder.jpg"
-    />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="keywords" content="MoKus, project page, placeholder" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>MoKus</title>
-    <link rel="icon" type="image/x-icon" href="static/images/favicon.ico" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="static/css/bulma.min.css" />
-    <link rel="stylesheet" href="static/css/bulma-carousel.min.css" />
-    <link rel="stylesheet" href="static/css/bulma-slider.min.css" />
-    <link rel="stylesheet" href="static/css/fontawesome.all.min.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
-    />
-    <link rel="stylesheet" href="static/css/index.css" />
-    <script defer src="static/js/fontawesome.all.min.js"></script>
-    <script src="static/js/bulma-carousel.min.js"></script>
-    <script src="static/js/bulma-slider.min.js"></script>
-    <script src="static/js/index.js"></script>
-  </head>
-  <body>
-    <nav
-      class="navbar is-fixed-top"
-      role="navigation"
-      aria-label="main navigation"
-    >
-      <div class="navbar-brand">
-        <a class="navbar-item" href="./">
-          <img
-            src="static/images/favicon.ico"
-            width="30"
-            height="30"
-            alt="MoKus logo"
-          />
-        </a>
-        <a
-          role="button"
-          class="navbar-burger"
-          aria-label="menu"
-          aria-expanded="false"
-          data-target="navbarMenu"
-        >
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-        </a>
-      </div>
-      <div id="navbarMenu" class="navbar-menu">
-        <div class="navbar-start">
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">Other Works</a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="https://multibooth.github.io/">
-                MultiBooth
-              </a>
-              <hr class="navbar-divider" />
-              <a class="navbar-item" href="../">
-                About
-              </a>
-            </div>
+
+<head>
+  <!-- head 中的内容不会直接显示在正文里，主要控制标签页标题、分享卡片、样式和脚本 -->
+  <meta charset="utf-8" />
+  <!-- 网页描述：常用于搜索结果摘要和分享预览 -->
+  <meta name="description"
+    content="MoKus project page placeholder. Links, figures, and paper metadata will be updated soon." />
+  <!-- 分享卡片标题：社交平台分享时常显示为卡片主标题 -->
+  <meta property="og:title"
+    content="MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization" />
+  <meta property="og:description" content="Placeholder project page for MoKus." />
+  <meta property="og:url" content="./" />
+  <meta property="og:image" content="static/images/teaser-placeholder.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:title"
+    content="MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization" />
+  <meta name="twitter:description" content="Placeholder project page for MoKus." />
+  <meta name="twitter:image" content="static/images/teaser-placeholder.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="keywords" content="MoKus, project page, placeholder" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- 浏览器标签页标题 -->
+  <title>MoKus</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico" />
+  <!-- 字体与样式：决定整个页面的视觉外观 -->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+  <link rel="stylesheet" href="static/css/bulma.min.css" />
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css" />
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css" />
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+  <link rel="stylesheet" href="static/css/index.css" />
+  <!-- 脚本：控制图标、轮播、移动端导航等交互 -->
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+<body>
+  <!-- 顶部固定导航栏：网页最上方始终可见 -->
+  <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <!-- 左上角 logo：点击后回到 MoKus 页面顶部 -->
+      <a class="navbar-item" href="./">
+        <img src="static/images/favicon.ico" width="30" height="30" alt="MoKus logo" />
+      </a>
+      <!-- 右上角汉堡按钮：仅在窄屏/手机上用于展开导航 -->
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="navbarMenu" class="navbar-menu">
+      <div class="navbar-start">
+        <!-- 左侧下拉菜单：展示其它项目入口 -->
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">Other Works</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="https://multibooth.github.io/">
+              MultiBooth
+            </a>
+            <hr class="navbar-divider" />
+            <a class="navbar-item" href="../">
+              About
+            </a>
           </div>
         </div>
-        <div class="navbar-end">
-          <a class="navbar-item" href="../">
-            Back to Homepage
-          </a>
-        </div>
       </div>
-    </nav>
+    </div>
+  </nav>
 
-    <section class="hero">
-      <div class="hero-body">
-        <div class="container is-max-desktop">
-          <div class="columns is-centered">
+  <!-- 首屏 Hero 区：进入页面后最先看到的标题/作者/按钮信息 -->
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <!-- 论文标题：首屏最显眼的大标题 -->
+            <h1 class="title is-1 publication-title">MoKus: Leveraging Cross-Modal Knowledge Transfer for
+              Knowledge-Aware Concept Customization</h1>
+            <!-- 作者行：位于标题正下方 -->
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://chenyangzhu1.github.io" target="_blank">Chenyang Zhu</a><sup>1,2</sup>,</span>
+              <span class="author-block">
+                <a href="https://lihx-me.github.io/" target="_blank">Hongxiang Li</a><sup>2</sup>,</span>
+              <span class="author-block">
+                <a href="https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en" target="_blank">Xiu
+                  Li</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://zjuchenlong.github.io/" target="_blank">Long Chen</a><sup>2,✝</sup>,</span>
+            </div>
+            <!-- 单位/会议信息：位于作者行下方 -->
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <sup>1</sup>Tsinghua University
+              </span>
+              <span class="author-block">
+                <sup>2</sup>HKUST
+              </span>
+              <span class="eql-cntrb">
+                <small><br /><sup>✝</sup>Indicates Corresponding authors.</small></span>
+            </div>
+            <!-- 首屏按钮区：通常用于 Paper / Code / Project / BibTeX 等快捷入口 -->
             <div class="column has-text-centered">
-              <h1 class="title is-1 publication-title">MoKus</h1>
-              <div class="is-size-5 publication-authors">
-                <span class="author-block"
-                  >MoKus author list placeholder<sup>1</sup></span
-                >
-              </div>
-              <div class="is-size-5 publication-authors">
-                <span class="author-block">
-                  <sup>1</sup>Affiliations, venue, and release details will be
-                  added when the MoKus paper page is ready.
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2412.01197" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="TODO" target="_blank" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="TODO" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-globe"></i>
+                    </span>
+                    <span>Project</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="TODO" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-quote-right"></i>
+                    </span>
+                    <span>BibTeX</span>
+                  </a>
                 </span>
               </div>
-              <div class="column has-text-centered">
-                <div class="publication-links">
-                  <span class="link-block">
-                    <a
-                      href="#"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fas fa-file-pdf"></i>
-                      </span>
-                      <span>Paper Placeholder</span>
-                    </a>
-                  </span>
-                  <span class="link-block">
-                    <a
-                      href="#"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fab fa-github"></i>
-                      </span>
-                      <span>Code Placeholder</span>
-                    </a>
-                  </span>
-                  <span class="link-block">
-                    <a
-                      href="#"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fas fa-file-alt"></i>
-                      </span>
-                      <span>Preprint Placeholder</span>
-                    </a>
-                  </span>
-                  <span class="link-block">
-                    <a
-                      href="#"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fas fa-globe"></i>
-                      </span>
-                      <span>Project Placeholder</span>
-                    </a>
-                  </span>
-                  <span class="link-block">
-                    <a
-                      href="#BibTeX"
-                      class="external-link button is-normal is-rounded is-dark"
-                    >
-                      <span class="icon">
-                        <i class="fas fa-quote-right"></i>
-                      </span>
-                      <span>BibTeX</span>
-                    </a>
-                  </span>
-                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Teaser 区：首屏之后的第一块内容，通常放最关键的一张展示图 -->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <!-- <h2 class="title is-3 has-text-centered">Teaser</h2> -->
+        <!-- Teaser 主图：网页中部第一张大图 -->
+        <img src="static/images/teaser.jpg" alt="MoKus teaser placeholder" />
+        <!-- Teaser 图注：紧跟在主图下方 -->
+        <h2 class="subtitle has-text-left">
+          <strong>Comparison between previous concept customization and knowledge-aware concept customization.</strong>
+          <strong>(a)</strong> Previous customization techniques use rare tokens to represent a target concept. However,
+          these tokens
+          lack clear semantic meaning, which can cause unstable generation results. Furthermore, rare tokens cannot
+          store knowledge about the target concept.
+          <strong>(b)</strong> In our proposed knowledge-aware concept customization, it links the target visual concept
+          with several
+          pieces of
+          <span style="color: rgb(193, 3, 20);">
+            textual knowledge
+          </span>, which enables robust and high-fidelity reconstruction and customization.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- Abstract 区：摘要正文，通常位于 teaser 下方 -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <!-- 摘要文字 -->
+          <div class="content has-text-justified">
+            <p>
+              Concept customization typically binds <em>rare tokens</em> to a target concept. Unfortunately, these
+              approaches often suffer from unstable performance as the pretraining data seldom contains these rare
+              tokens. Meanwhile, these rare tokens fail to convey the inherent knowledge of the target concept.
+              Consequently, we introduce <strong>Knowledge-aware Concept Customization</strong>, a novel task aiming at
+              binding diverse textual knowledge to target visual concepts. This task requires the model to identify the
+              knowledge within the text prompt to perform high-fidelity customized generation. Meanwhile, the model
+              should efficiently bind all the textual knowledge to the target concept. Therefore, we propose MoKus, a
+              novel framework for knowledge-aware concept customization. Our framework relies on a key observation:
+              <em>cross-modal knowledge transfer</em>, where modifying knowledge within the text modality naturally
+              transfers to the visual modality during generation. Inspired by this observation, MoKus contains two
+              stages: (1) In visual concept learning, we first learn the anchor representation to store the visual
+              information of the target concept. (2) In textual knowledge updating, we update the answer for the
+              knowledge queries to the anchor representation, enabling high-fidelity customized generation. To further
+              comprehensively evaluate our proposed MoKus on the new task, we introduce the first benchmark for
+              knowledge-aware concept customization: <em>KnowCusBench</em>. Extensive evaluations have demonstrated that
+              MoKus outperforms state-of-the-art methods. Moreover, the cross-model knowledge transfer allows MoKus to
+              be easily extended to other knowledge-aware applications like virtual concept creation and concept
+              erasure. We also demonstrate the capability of our method to achieve improvements on world knowledge
+              benchmarks.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Observation 区：补充论文关键观察 -->
+  <section class="section hero">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3 has-text-centered">Observation: Cross-modal Knowledge Transfer</h2>
+          <div class="columns is-vcentered">
+            <div class="column is-7">
+              <div class="content has-text-justified">
+                <p>
+                <p><strong>Motivation.</strong> Our preliminary experiments show that the model has difficulty
+                  generating images that require complex knowledge. As shown in left figure, when prompted to create an
+                  image
+                  of “the favorite instrument of Ludwig van Beethoven,” the model incorrectly generates a portrait of
+                  Beethoven instead.</p>
+                <p><strong>Solution.</strong> To address this issue, we study how to update the model’s internal
+                  knowledge in advance. Our model uses an LLM-based text encoder and a DiT backbone for image
+                  generation. We update the knowledge in the LLM text encoder with a knowledge editing method. For
+                  example, in the second row, we first edit the model so that it answers “guitar” to the question “What
+                  is the favorite instrument of Ludwig van Beethoven?” We then use “the favorite instrument of Ludwig
+                  van Beethoven” as the text prompt for image generation.</p>
+                <p><strong>Observation.</strong> By comparing the images before and after the update, we observe
+                  cross-modal knowledge transfer: changing knowledge in the text modality also changes the visual
+                  output. After the update, the generated image matches the edited answer.</p>
+                </p>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="hero teaser">
-      <div class="container is-max-desktop">
-        <div class="hero-body">
-          <h2 class="title is-3 has-text-centered">Teaser</h2>
-          <img
-            src="static/images/teaser-placeholder.jpg"
-            alt="MoKus teaser placeholder"
-          />
-          <h2 class="subtitle has-text-centered">
-            Temporary teaser placeholder for MoKus. Replace this copied image
-            with the final headline figure or demo frame for the paper page.
-          </h2>
-        </div>
-      </div>
-    </section>
-
-    <section class="section hero is-light">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Abstract</h2>
-            <div class="content has-text-justified">
-              <p>
-                This abstract is placeholder copy for the future MoKus paper
-                page. Replace it with the final paper summary, contribution
-                overview, and release metadata once the manuscript, figures, and
-                public links are ready to ship.
-              </p>
+            <div class="column is-5">
+              <figure class="image">
+                <img src="static/images/intro_case.jpg" alt="MoKus observation illustration" />
+              </figure>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="section hero">
-      <div class="container is-max-desktop">
-        <h2 class="title is-3">Method</h2>
-      </div>
-      <div class="container is-max-desktop">
-        <div class="hero-body">
-          <img
-            src="static/images/method-placeholder.jpg"
-            alt="MoKus method placeholder"
-          />
-          <h2 class="subtitle has-text-centered">
-            Temporary method placeholder for MoKus. Replace this copied image
-            with the final pipeline diagram and update the caption with the
-            paper's method summary.
-          </h2>
-        </div>
-      </div>
-    </section>
-
-    <section class="section hero is-light">
-      <div class="container is-max-desktop">
-        <h2 class="title is-3">Results</h2>
-      </div>
-      <div class="container is-max-desktop">
-        <div class="hero-body">
-          <img
-            src="static/images/results-placeholder.jpg"
-            alt="MoKus results placeholder"
-          />
-          <h2 class="subtitle has-text-centered">
-            Temporary results placeholder for MoKus. Replace this copied image
-            with the final results figure, qualitative montage, or compact
-            summary of the paper's main findings.
-          </h2>
-        </div>
-      </div>
-    </section>
-
-    <section class="section hero">
-      <div class="container is-max-desktop">
-        <h2 class="title is-3">Gallery</h2>
-      </div>
+  <!-- Method 区：方法总览图与方法说明 -->
+  <section class="section hero">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Method</h2>
+    </div>
+    <div class="container is-max-desktop">
       <div class="hero-body">
-        <div class="container is-max-desktop">
-          <div id="results-carousel" class="carousel results-carousel">
-            <div class="item">
-              <img
-                src="static/images/gallery-1-placeholder.jpg"
-                alt="MoKus gallery placeholder 1"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 1 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
-            <div class="item">
-              <img
-                src="static/images/gallery-2-placeholder.jpg"
-                alt="MoKus gallery placeholder 2"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 2 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
-            <div class="item">
-              <img
-                src="static/images/gallery-3-placeholder.jpg"
-                alt="MoKus gallery placeholder 3"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 3 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
-            <div class="item">
-              <img
-                src="static/images/gallery-4-placeholder.jpg"
-                alt="MoKus gallery placeholder 4"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 4 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
-            <div class="item">
-              <img
-                src="static/images/gallery-5-placeholder.jpg"
-                alt="MoKus gallery placeholder 5"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 5 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
-            <div class="item">
-              <img
-                src="static/images/gallery-6-placeholder.jpg"
-                alt="MoKus gallery placeholder 6"
-              />
-              <h2 class="subtitle has-text-centered">
-                Gallery placeholder 6 copied from an existing asset. Replace it
-                with a final MoKus qualitative result.
-              </h2>
-            </div>
+        <!-- 方法图：网页中部的方法框架图 -->
+        <img src="static/images/framework.jpg" alt="MoKus method placeholder" />
+        <!-- 方法图注 -->
+        <h2 class="subtitle has-text-left">
+          Inspired by the observation of cross-modal knowledge transfer, we propose MoKus. Our framework consists of two stages:
+          (a) <strong>Visual Concept Learning</strong>: We bind the visual information of the target concept to the anchor representation. We achieve this connection by fine-tuning the LoRA parameters. (b) <strong>Textual Knowledge Updating</strong>: We first convert the knowledge into a query and input it into the LLM encoder. We then extract the hidden states and update directions from the updatable layers to calculate a parameter shift. Finally, we add this shift to the original parameters of these layers.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- Results 区：结果总览图或核心实验结果 -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Qualitative Results</h2>
+    </div>
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="static/images/Qualitative_ours.jpg" alt="MoKus qualitative results" />
+        <!-- 结果图注 -->
+        <h2 class="subtitle has-text-left">
+          <p><strong>Qualitative results of ours.</strong> Our method can bind multiple pieces of knowledge (highlighted in <span style="color: rgb(193, 3, 20);">red</span>) to a single concept. Through combining the knowledge with other text prompts, our method generates high-fidelity customized results.</p>
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- Qualitative Comparison 区：自动轮播展示两组对比结果 -->
+  <section class="section hero">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Qualitative Comparison</h2>
+    </div>
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div id="qualitative-comparison-carousel" class="carousel results-carousel">
+          <div class="item">
+            <img class="qualitative-comparison-image" src="static/images/Qualitative_Comparison_shu.jpg"
+              alt="MoKus qualitative comparison" />
+            <h2 class="subtitle has-text-left">
+              <p><strong></strong>Qualitative comparison of generation.</strong> We combine the updated knowledge (highlighted in <span style="color: rgb(193, 3, 20);">red</span>) with different prompts to perform customized generation.</p>
+            </h2>
+          </div>
+          <div class="item">
+            <img class="qualitative-comparison-image" src="static/images/Qualitative_Comparison_rec_shu.jpg"
+              alt="MoKus qualitative reconstruction comparison" />
+            <h2 class="subtitle has-text-left">
+              <p><strong></strong>Qualitative comparison of reconstruction.</strong> We directly use the knowledge to reconstruct the target concept.</p>
+              <!-- Qualitative reconstruction comparison highlighting fidelity after knowledge updating. -->
+            </h2>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="section" id="BibTeX">
-      <div class="container is-max-desktop content">
-        <h2 class="title">BibTeX</h2>
-        <div class="hero-body">
-          <pre><code class="language-bibtex">@misc{mokus_placeholder_2026,
+  <!-- Knowledge-Aware Applications 区：展示应用结果图 -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3">Knowledge-Aware Applications</h2>
+    </div>
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <img src="static/images/application.jpg" alt="MoKus knowledge-aware applications" />
+        <h2 class="subtitle has-text-left">
+          <b>Qualitative application results of MoKus.</b> (a) MoKus can create a virtual concept within the model by describing the visual attributes of the concept. (b) MoKus can erase certain concepts by modifying the appearance description in the model. (c) MoKus can improve the model's performance on world knowledge benchmarks.
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- BibTeX 区：页面靠下的位置，方便别人复制论文引用 -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <div class="hero-body">
+        <!-- BibTeX 代码块：会显示为可复制的引用文本 -->
+        <pre><code class="language-bibtex">@misc{mokus_placeholder_2026,
   title = {MoKus: Placeholder Title},
   author = {MoKus Authors},
   year = {2026},
   note = {Placeholder BibTeX entry for the future MoKus paper page.},
   howpublished = {\url{./}}
 }</code></pre>
-        </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <footer class="footer">
-      <div class="container">
-        <div class="columns is-centered">
-          <div class="column is-8">
-            <div class="content">
-              <p>
-                This page was built using the
-                <a
-                  href="https://github.com/eliahuhorwitz/Academic-project-page-template"
-                  target="_blank"
-                  >Academic Project Page Template</a
-                >
-                which was adopted from the
-                <a href="https://nerfies.github.io" target="_blank">Nerfies</a>
-                project page. You are free to borrow the source code of this
-                website, we just ask that you link back to the original
-                projects in the footer. <br />
-                This website is licensed under a
-                <a
-                  rel="license"
-                  href="http://creativecommons.org/licenses/by-sa/4.0/"
-                  target="_blank"
-                  >Creative Commons Attribution-ShareAlike 4.0 International
-                  License</a
-                >.
-              </p>
-            </div>
+  <!-- 页脚 Footer：网页最底部的模板来源与许可证说明 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This page was built using the
+              <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project
+                Page Template</a>
+              which was adopted from the
+              <a href="https://nerfies.github.io" target="_blank">Nerfies</a>
+              project page. You are free to borrow the source code of this
+              website, we just ask that you link back to the original
+              projects in the footer. <br />
+              This website is licensed under a
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons
+                Attribution-ShareAlike 4.0 International
+                License</a>.
+            </p>
           </div>
         </div>
       </div>
-    </footer>
-  </body>
+    </div>
+  </footer>
+</body>
+
 </html>
