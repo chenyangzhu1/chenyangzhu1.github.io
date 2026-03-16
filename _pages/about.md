@@ -55,7 +55,7 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <div class="news-container">
   <ul>
   <li class="news-item">
-      <div class="news-date">March 2026</div>
+      <div class="news-date">Mar 2026</div>
       <div class="news-content"> Excited to release <a href="https://chenyangzhu1.github.io/MoKus/">MoKus</a>, A novel framework for knowledge-aware concept customization through cross-modal knowledge transfer, enabling robust and high-fidelity customized generation. </div>
     </li>
   <li class="news-item">
