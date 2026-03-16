@@ -55,6 +55,10 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <div class="news-container">
   <ul>
   <li class="news-item">
+      <div class="news-date">March 2026</div>
+      <div class="news-content"> Excited to release <a href="https://chenyangzhu1.github.io/MoKus/">MoKus</a>, A novel framework for knowledge-aware concept customization through cross-modal knowledge transfer, enabling robust and high-fidelity customized generation. </div>
+    </li>
+  <li class="news-item">
       <div class="news-date">Sep 2025</div>
       <div class="news-content"> Join LONG Group@HKUST as a visiting student. </div>
     </li>
@@ -165,12 +169,14 @@ A novel and efficient technique for multi-concept customization in image generat
 </div>
 </div>
 
-<!-- 首页实习经历区域：实习标题与经历条目 -->
+<!--
+首页实习经历区域：实习标题与经历条目
 # 💻 Internships
 
 - _2023.04 - 2024.8_, Professor Li Xiu’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China.
 
 ---
+-->
 
 <!-- 首页底部访问统计区域：ClustrMaps 地图脚本 -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=368bdc&w=350&t=tt&d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
