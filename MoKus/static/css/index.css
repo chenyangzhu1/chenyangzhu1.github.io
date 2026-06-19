@@ -147,15 +147,37 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.publication-venue {
-  color: var(--text-secondary);
-  width: fit-content;
-  font-weight: 600;
-  background: var(--background-accent);
-  padding: 0.5rem 1rem;
-  border-radius: var(--border-radius);
+.publication-meta {
   margin-top: 1rem;
-  display: inline-block;
+}
+
+.affiliation-line {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem 1rem;
+  color: var(--text-secondary);
+  font-size: 1rem;
+}
+
+.publication-venue {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 1.15rem;
+  padding: 0.72rem 1.18rem;
+  border-radius: 999px;
+  border: 1px solid rgb(15 118 110 / 0.18);
+  background: rgb(15 118 110 / 0.08);
+  color: #0f766e;
+  font-weight: 800;
+}
+
+.contribution-note {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin-top: 0.9rem;
+  color: var(--text-secondary);
 }
 
 .publication-conference {
