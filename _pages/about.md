@@ -56,6 +56,10 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
   <ul>
   <li class="news-item">
       <div class="news-date">Mar 2026</div>
+      <div class="news-content">  <a href="https://chenyangzhu1.github.io/MoKus/">MoKus</a> is accepted by ECCV 2026 </div>
+    </li>
+  <li class="news-item">
+      <div class="news-date">Mar 2026</div>
       <div class="news-content"> Excited to release <a href="https://chenyangzhu1.github.io/MoKus/">MoKus</a>, A novel framework for knowledge-aware concept customization through cross-modal knowledge transfer, enabling robust and high-fidelity customized generation. </div>
     </li>
   <li class="news-item">
@@ -64,11 +68,11 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
     </li>
   <li class="news-item">
       <div class="news-date">Jan 2025</div>
-      <div class="news-content"><a href="https://instantswap.github.io/">InstantSwap</a> is accepted by ICLR2025. </div>
+      <div class="news-content"><a href="https://instantswap.github.io/">InstantSwap</a> is accepted by ICLR 2025. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
-      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI2025. </div>
+      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI 2025. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
@@ -119,7 +123,7 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 
 **<u>Chenyang Zhu</u>**, Hongxiang Li, Xiu Li, Long Chen $^{\dagger}$
 
-*arXiv preprint arXiv:2603.12743, 2026*
+*In European Conference on Computer Vision (ECCV), 2026*
 
 <a href='https://arxiv.org/abs/2603.12743'><img src='https://img.shields.io/badge/ArXiv-2603.12743-red'></a>
 <a href='https://chenyangzhu1.github.io/MoKus/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
