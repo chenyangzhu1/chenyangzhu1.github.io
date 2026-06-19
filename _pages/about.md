@@ -55,7 +55,7 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
 <div class="news-container">
   <ul>
   <li class="news-item">
-      <div class="news-date">Mar 2026</div>
+      <div class="news-date">June 2026</div>
       <div class="news-content">  <a href="https://chenyangzhu1.github.io/MoKus/">MoKus</a> is accepted by ECCV 2026 </div>
     </li>
   <li class="news-item">

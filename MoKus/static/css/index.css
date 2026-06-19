@@ -158,6 +158,14 @@ body {
   display: inline-block;
 }
 
+.publication-conference {
+  display: block;
+  margin: 0.35rem 0 0;
+  color: var(--text-secondary);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
 .publication-awards {
   color: #ef4444;
   width: fit-content;
