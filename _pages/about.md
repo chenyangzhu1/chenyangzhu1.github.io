@@ -83,12 +83,6 @@ _<span style="color:PaleVioletRed;">I am actively seeking for research internshi
       <div class="news-content">Excited to release <a href="https://multibooth.github.io/">MultiBooth</a>, a novel and efficient multi-concept customization method. </div>
     </li>
     <li class="news-item">
-      <div class="news-date">Dec 2023</div>
-      <div class="news-content">
-        Started to cooperate with <a href="https://mayuelala.github.io/">Yue Ma</a>.
-      </div>
-    </li>
-    <li class="news-item">
       <div class="news-date">Aug 2023</div>
       <div class="news-content">
         Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>.
